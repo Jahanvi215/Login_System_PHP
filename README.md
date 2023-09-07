@@ -18,8 +18,7 @@ HTML, CSS, JavaScript, PHP ,MySQL
 3.Save this file in Zaamp folder> htdocs> creat new folder and extract all files
 
 4. Open  Browser and type "localhost/(folder name)/index.php" example ="http://localhost/php%20login/index.php"
-5. 
-6. Go to Zaamp click on MySQL Admin then create your database and give the name according to this code.
+5.  Go to Zaamp click on MySQL Admin then create your database and give the name according to this code.
 
 
 **Live Link**
